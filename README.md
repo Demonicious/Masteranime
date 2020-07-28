@@ -1,4 +1,4 @@
-# Masteranime
+### masterani.me
 
 The original, untouched code of https://masterani.me
 
